@@ -1,0 +1,12 @@
+name: Oneiros
+title: Oneiros
+username:
+account: octopus2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3671547
+bundleId: 4250491
+url: https://octopus2.shinyapps.io/Oneiros/
+when: 1613876450.02396
+asMultiple: FALSE
+asStatic: FALSE
